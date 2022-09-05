@@ -1,0 +1,3 @@
+﻿05.09.2022
+-Primera versión: Alta, Cambio y Borrado de categorías
+- La opción de borrado es propia (no del curso)
